@@ -1,0 +1,30 @@
+
+
+.task1{
+    box-shadow: 0 0 5px gray;
+    padding: 10px 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.taskDiv{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 0 10px;
+}
+
+.buttons {
+    display: flex;
+    gap: 15px;
+    margin-right: 10px;
+}
+
+.btn{
+    padding: 5px;
+    background-color: #fff;
+    color: #000;
+}

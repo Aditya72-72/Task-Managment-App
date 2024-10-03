@@ -1,0 +1,44 @@
+.container{
+    background-color: #fff;
+    color: #000;
+    height: 100%;
+    width: 100%;
+    padding: 2rem;
+}
+
+.username{
+    height: 40px;
+    border-bottom: 1px solid ;
+    font-size: 20px;
+}
+
+.list{
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Tasks{
+    width: 600px;
+    display: flex;
+    flex-direction: column; 
+}
+
+.taskNav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head{
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+.addBtn{
+    color: #fff;
+    text-decoration: none;
+    padding: 0.3rem 0.5rem;
+    background-color: #286efa;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}

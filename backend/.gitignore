@@ -1,0 +1,21 @@
+# Node.js and npm files
+node_modules/
+npm-debug.log
+
+# Express.js files
+/public/uploads/
+
+# Log files
+logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Other files
+coverage
