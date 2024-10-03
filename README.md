@@ -1,5 +1,3 @@
-Here’s a basic `README.md` file to help document your project and guide anyone using it. The structure includes setting up the backend, frontend, and explains authentication integration with the use of `passport`, `passport-local`, and `passport-local-mongoose`.
-
 ---
 
 # Task Management MERN App
